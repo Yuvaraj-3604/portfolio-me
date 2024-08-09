@@ -22,7 +22,7 @@ body {
 /* ------------ Page 1 ------------- */
 
 .bg {
-  background-image: url(images/bg.jpg);
+  background-image: url(photos/bg.jpg);
   background-size: cover;
   background-position: right center;
   width: 100vw;
